@@ -55,7 +55,7 @@ def edit_item(index, name, quantity, expiry_date):
 
 def main():
     st.set_page_config(page_title="EXPIRY - WISE", page_icon="♻️")
-    st.title("🥫 Food Expiry Tracker ♻️")
+    st.title("🥫 EXPIRY - WISE ♻️")
     st.markdown("> Reduce waste by tracking your food expiry dates!")
 
     st.divider()
@@ -165,5 +165,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
