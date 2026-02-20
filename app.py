@@ -158,15 +158,11 @@ def main():
     st.markdown("""
 - 📱 [WhatsApp](Hi Ayush Paul, I saw your Food Expiry Tracker project and I’m interested in learning more about it.
 )
-# 📱 [WhatsApp](https://wa.me/919319266920?text=Hi%20Ayush%20Paul%2C%20I%20saw%20your%20Food%20Expiry%20Tracker%20project%20and%20I%E2%80%99m%20interested%20in%20learning%20more%20about%20it.)
-# - 📧 [Email](mailto:hello.ayushishere@gmail.com)
-# - 📺 [YouTube](https://youtube.com/@ayushpaul24?si=FIWd94q2a5-NiFp-)
-# - 💼 [LinkedIn](https://www.linkedin.com/in/paulayush/)
-# - 📷 [Instagram](https://www.instagram.com/itx_guchchi1717/)
-# - 🐱 [GitHub](https://github.com/guchchi)
+
     """)
 
     st.caption("© 2025 Ayush Paul | Food Expiry Tracker v1.0")
 
 if __name__ == "__main__":
     main()
+
