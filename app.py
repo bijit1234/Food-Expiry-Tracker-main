@@ -54,7 +54,7 @@ def edit_item(index, name, quantity, expiry_date):
 # --------------------
 
 def main():
-    st.set_page_config(page_title="Food Expiry Tracker", page_icon="♻️")
+    st.set_page_config(page_title="EXPIRY - WISE", page_icon="♻️")
     st.title("🥫 Food Expiry Tracker ♻️")
     st.markdown("> Reduce waste by tracking your food expiry dates!")
 
@@ -150,19 +150,20 @@ def main():
     # About section
     st.subheader("👨‍💻 About This App")
     st.markdown("""
-    Made with ❤️ by **Ayush Paul**  
+    Made with ❤️ by **  ->  PARADOX**  
     Track your food expiry and help reduce kitchen waste.
     """)
 
     st.markdown("### 🔗 Connect with Me:")
     st.markdown("""
-- 📱 [WhatsApp](Hi Ayush Paul, I saw your Food Expiry Tracker project and I’m interested in learning more about it.
+
 )
 
     """)
 
-    st.caption("© 2025 Ayush Paul | Food Expiry Tracker v1.0")
+    st.caption("© 2026 team PARADOX | Food Expiry Tracker v1.1")
 
 if __name__ == "__main__":
     main()
+
 
